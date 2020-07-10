@@ -4,7 +4,8 @@ require "pry"
 
 def countdown(number)
 
-  while number < 10   #number = 1 
+  while number < 10   
+  number = 0
     puts "#{number} SECOND(S)!"
 
     number += 1
