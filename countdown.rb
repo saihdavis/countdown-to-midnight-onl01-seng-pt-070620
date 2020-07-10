@@ -10,5 +10,6 @@ def countdown(number)
     number -= 1
   
     
-endcountdown(10)
+end
+countdown(10)
 end
