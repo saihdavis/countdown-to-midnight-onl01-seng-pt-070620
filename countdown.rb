@@ -8,7 +8,7 @@ def countdown(number)
     puts "#{number} SECOND(S)!"
 
     number += 1
-    until number == 0  
+  
     countdown(10)
 end
 end
