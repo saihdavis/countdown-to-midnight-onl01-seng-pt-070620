@@ -3,8 +3,8 @@ require "pry"
 #binding.pry
 
 def countdown(number)
-  #number = 1 
-  while number < 10 
+
+  while number < 10   #number = 1 
     puts "#{number} SECOND(S)!"
 
     number += 1
